@@ -27,7 +27,7 @@ const Footer = () => {
             <Instagram className="w-3.5 h-3.5" />
           </a>
           <a 
-            href="https://www.linkedin.com/company/target" 
+            href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/company/tractor-supply-company&ved=2ahUKEwj_rLzZh--XAxXJffUHHcJGGuwQFnoECBwQAQ&usg=AOvVaw0G-dLYEeijq6JDe_73g70p" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#cc0000] hover:bg-[#cc0000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
