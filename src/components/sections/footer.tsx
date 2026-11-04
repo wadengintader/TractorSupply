@@ -9,7 +9,7 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex items-center justify-center gap-1.5 mb-2">
           <a 
-            href="https://www.facebook.com/target/" 
+            href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/p/Tractor-Supply-Co-100064849474574/&ved=2ahUKEwjbibKbh--XAxU2mq8BHV3MBO8QFnoECB0QAQ&usg=AOvVaw1XmWqq4yO4SirhUjQqFQri" 
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#cc0000] hover:bg-[#cc0000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
