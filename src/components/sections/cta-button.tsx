@@ -10,7 +10,7 @@ import { Star } from 'lucide-react';
  * including a shimmering hover effect, star icons, and a pulsing bottom glow.
  */
 export default function CTAButton() {
-  const url = "https://giftclick.org/aff_c?offer_id=2746&aff_id=44723&source=Target";
+  const url = "https://giftclick.org/?offer_id=5488&aff_id=44723&source=TS";
 
   const handleClick = (e: React.MouseEvent) => {
     // For Orchids preview environment
