@@ -18,7 +18,7 @@ const Footer = () => {
             <Facebook className="w-3.5 h-3.5 fill-current" />
           </a>
           <a 
-            href="https://www.instagram.com/target/?hl=en"
+            href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/tractorsupply/%3Fhl%3Den&ved=2ahUKEwig3MrIh--XAxWbT_UHHSqZOc8QFnoECBoQAQ&usg=AOvVaw3KKOyw9xfO5qCSs4JSLgIp"
             target="_blank"
             rel="noopener noreferrer"
             className="w-7 h-7 rounded-full bg-[#cc0000] hover:bg-[#cc0000] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
