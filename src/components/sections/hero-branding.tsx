@@ -64,7 +64,7 @@ const HeroBranding = () => {
             <span className="text-[#182C54]">Unlock</span>
             <span className="text-[#cc0000]">Tractor Supply Rewards</span>
             <div className="flex items-center -ml-1">
-              <Gift className="w-4 h-4 text-[#cc0000] fill-transparent" />
+              <Gift className="w-4.5 h-4.5 text-[#cc0000] fill-transparent" />
             </div>
           </h1>
         </div>
