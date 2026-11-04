@@ -58,7 +58,7 @@ const AnnouncementBar = () => {
                 <span className="text-[#ffffff] tabular-nums font-black">
                   {formatTime(timeLeft)}
                 </span>{" "}
-                minutes left to unlock your Target reward
+                minutes left to unlock your Tractor Supply reward
               </p>
             </div>
         </div>
